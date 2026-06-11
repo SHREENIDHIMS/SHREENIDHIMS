@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreenidhi M</h1>
-<h3 align="center">Java Full Stack Developer | CS Graduate | Building production-grade apps with Spring Boot, PostgreSQL & Docker</h3>
+<h3 align="center">Full Stack Developer | Building production-grade apps with Spring Boot, PostgreSQL & Docker</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+PostgreSQL+%7C+Docker;Open+to+Entry-Level+Opportunities;Let's+Build+Something+Great!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+AI+Application+Builder;Spring+Boot+%7C+PostgreSQL+%7C+Docker;Open+to+Entry-Level+Opportunities;Let's+Build+Something+Great!" alt="Typing SVG" />
 </p>
 
 ---
